@@ -1,8 +1,5 @@
 # Impact of Regression-Based Imputation on Credit Default Prediction
 
-- **Author:** Charukhesh  
-- **Roll No:** AE22B028
-
 ## 📖 Project Overview
 
 This project tackles a common and critical challenge in machine learning: handling missing data. We explore this challenge within the context of a credit risk assessment task, using the UCI Credit Card Default Clients dataset. The core idea is that the method chosen to handle missing values can significantly impact the performance of a final predictive model.
@@ -19,7 +16,7 @@ The effectiveness of these strategies is not judged by the accuracy of the imput
 ## 📁 Repository Structure
 
 ```
-DA5401-assignment-6-Charukhesh/
+ImputationTechniques/
 │
 ├── main.ipynb
 ├── creditcard_dataset/
@@ -50,8 +47,8 @@ pip install pandas numpy matplotlib scikit-learn
 ## How to Run This Project
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/Charukhesh/DA5401-assignment-6-Charukhesh.git
-    cd DA5401-assignment-6-Charukhesh
+    git clone https://github.com/Charukhesh/ImputationTechniques.git
+    cd ImputationTechniques
     ```
 
 2. **Dataset**
